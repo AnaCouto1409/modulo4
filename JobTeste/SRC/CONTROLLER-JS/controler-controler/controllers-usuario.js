@@ -11,3 +11,12 @@ module.exports = (app) =>{
 //requisição co rotas co  o verbo get e post 
 //GET -- ler
 //post criar
+
+//ai tem um banco de dados com arrays vazios
+
+ const bd{
+    "Aluno": [],
+    "Facilitador": []
+}//faço uma visualização
+
+
