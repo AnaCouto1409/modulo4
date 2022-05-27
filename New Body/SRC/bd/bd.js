@@ -1,0 +1,4 @@
+const aluno = {
+    "Aluno" : [],
+    "Facilitador": []
+}
