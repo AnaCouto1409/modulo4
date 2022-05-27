@@ -1,0 +1,23 @@
+body{
+    padding: 10px 2%; 
+    background-color: rgb(46, 50, 65);
+    color:white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+p, p:hover{
+    text-decoration: none;
+    color: cornflowerblue;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+#menu{
+    border: 1px white solid;
+    margin: 5px;
+    padding: 2%;
+    border-radius: 5px;
+    background-color: rgba(0, 0, 0, 0.2);
+}
