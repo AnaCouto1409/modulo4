@@ -1,0 +1,41 @@
+{
+    "clientes": [
+        {
+            "id": 0,
+            "nome": "Ivan",
+            "sobrenome": "Feitosa",
+            "cpf": 14256789x
+            "email": "Lucasfeitosinha@gmail.com",
+            "telefone": 12345678
+        }
+        {
+            "id": 1,
+            "nome": "Miguel",
+            "sobrenome": "Barros",
+            "cpf": 12345678900
+            "email": "Jonnybgood@gmail.com",
+            "telefone": 12345678
+        }
+    ]
+}
+    ]
+
+    {
+    "clientes": [
+        {
+            "id": 1,
+            "nome": "Miguel",
+            "sobrenome": "Barros",
+            "cpf": 12345678900
+            "email": "Jonnybgood@gmail.com",
+            "telefone": 12345678
+        }
+    ]
+    {
+    "sobrenome": "Feitosa",
+    "email": "Lucasfeitosinha@gmail.com",
+}
+--atualização manual e feita por meio de tutoriais e videos
+> Id "1" atualizado.
+
+
