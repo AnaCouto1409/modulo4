@@ -1,0 +1,84 @@
+@charset "UTF-8";
+
+*{
+    margin: 15 auto;
+    padding: 0.2px;
+    box-sizing: border-box;
+    font-family: 'Playfair Display', serif;
+    font-size: 0.9rem;
+    margin-left: 40px;
+}
+#menu{
+    max-width: 300px;
+    display: inline;
+    list-style: none;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    margin-left: 300px;
+    display: inline-block;
+}
+
+.menu-h {
+    list-style-type: none;
+    padding: 0;
+    max-width: 250px;
+    display: inline-block;
+    text-decoration: none;
+}
+.menu-h ul {
+    display: inline;
+    display: inline-block;
+    text-decoration: none;
+}
+
+.menu-h li a {
+    display: inline;
+    padding: 10px;
+    text-decoration: none;
+    display: inline-block;
+    color: #7e459b;
+    margin-left: 500px;
+}
+.arroba {
+    display: inline-block;
+}
+.menu li a :hover {
+    background-color: #7e459b;
+    display: inline;
+}
+/* botão*/
+.btn{
+border-radius: 1.1rem;
+border: 1px solid;
+}
+.btn-1{
+    border-radius: 1.1rem;
+    text-transform: uppercase;
+    font-size: normal;
+    font-weight: bold;
+    border: 2.5px solid #FF8C00;
+    background-color: white;
+}
+.btn-2{
+    border-radius: 1.1rem;
+    text-transform: uppercase;
+    font-size: normal;
+    font-weight: bold;
+    border: 5px solid #FF8C00;
+    background-color: #FF8C00;
+}
+header > p{
+    font-size: normal;
+    font-weight: bold;
+    font-size: 1.9rem;
+}
+.nav image{
+    margin-left: 15rem;
+}
+h1{
+    font-size: 5rem;
+}
